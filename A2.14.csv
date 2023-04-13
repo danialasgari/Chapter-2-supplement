@@ -1,0 +1,26 @@
+,Drosophila homolog,House fly gene names,pvalue,padj,logFC,GO.Annotation.Ontology.Term.Identifier,GO.Annotation.Ontology.Term.Name,Parents.Identifier,Parents.Name
+1,FBgn0001258,LOC101899700,0.000268991,0.027642625,1.193785031,GO:0019752,carboxylic acid metabolic process,GO:0044281,small molecule metabolic process
+2,FBgn0012034,LOC101896068,0.000725832,0.043800184,1.021428963,GO:0006633,fatty acid biosynthetic process,GO:0044281,small molecule metabolic process
+3,FBgn0014930,LOC101893503,7.96E-05,0.016575164,0.963332653,GO:0009398,FMN biosynthetic process,GO:0044281,small molecule metabolic process
+4,FBgn0019643,LOC101895265,0.000117006,0.019317072,1.10230956,GO:0046334,octopamine catabolic process,GO:0044281,small molecule metabolic process
+5,FBgn0020389,LOC101901501,0.000980704,0.048989569,0.957922097,GO:0050428,3'-phosphoadenosine 5'-phosphosulfate biosynthetic process,GO:0044281,small molecule metabolic process
+6,FBgn0022359,LOC101887985,0.001060675,0.049998757,0.582128551,GO:0006062,sorbitol catabolic process,GO:0044281,small molecule metabolic process
+7,FBgn0026314,LOC101893458,6.93E-05,0.015554214,0.841942347,GO:0006011,UDP-glucose metabolic process,GO:0044281,small molecule metabolic process
+8,FBgn0027572,LOC101896818,9.57E-06,0.003222056,0.856546873,GO:0033540,fatty acid beta-oxidation using acyl-CoA oxidase,GO:0044281,small molecule metabolic process
+9,FBgn0030594,LOC101901667,0.000177435,0.023523531,1.2789016,GO:0045455,ecdysteroid metabolic process,GO:0044281,small molecule metabolic process
+10,FBgn0031589,LOC101898238,0.000607581,0.040582686,0.695370357,GO:0019358,nicotinate nucleotide salvage,GO:0044281,small molecule metabolic process
+11,FBgn0033543,LOC101890289,0.000279701,0.028130798,1.045733728,GO:0019478,D-amino acid catabolic process,GO:0044281,small molecule metabolic process
+12,FBgn0033733,LOC109611602,0.000221675,0.025676403,1.710040274,GO:0046949,fatty-acyl-CoA biosynthetic process,GO:0044281,small molecule metabolic process
+13,FBgn0034552,LOC101893275,8.64E-05,0.016803705,1.261860388,GO:0001676,long-chain fatty acid metabolic process,GO:0044281,small molecule metabolic process
+14,FBgn0034628,LOC101895545,0.000664962,0.042738832,1.237041654,GO:0006635,fatty acid beta-oxidation,GO:0044281,small molecule metabolic process
+15,FBgn0035147,LOC101889139,0.000541469,0.039055465,1.283390509,GO:0033499,galactose catabolic process via UDP-galactose,GO:0044281,small molecule metabolic process
+16,FBgn0035679,LOC101891318,0.000542079,0.039055465,0.726628783,GO:0006006,glucose metabolic process,GO:0044281,small molecule metabolic process
+17,FBgn0035978,LOC101895356,2.31E-06,0.001123095,1.20329524,GO:0006011,UDP-glucose metabolic process,GO:0044281,small molecule metabolic process
+18,FBgn0036927,LOC101890765,0.000740127,0.044055168,1.029211206,GO:2000211,regulation of glutamate metabolic process,GO:0044281,small molecule metabolic process
+19,FBgn0037612,LOC101888657,0.000891111,0.046811458,1.117925649,GO:0008203,cholesterol metabolic process,GO:0044281,small molecule metabolic process
+20,FBgn0039156,LOC101894054,0.000396346,0.03502014,0.826867327,GO:0001676,long-chain fatty acid metabolic process,GO:0044281,small molecule metabolic process
+21,FBgn0039774,LOC101895904,0.000620847,0.0411546,0.798111922,GO:0046512,sphingosine biosynthetic process,GO:0044281,small molecule metabolic process
+22,FBgn0040259,LOC101893959,4.70E-06,0.001869505,1.674967921,GO:0006011,UDP-glucose metabolic process,GO:0044281,small molecule metabolic process
+23,FBgn0040349,LOC101897576,0.000268052,0.027642625,0.925641295,GO:0006635,fatty acid beta-oxidation,GO:0044281,small molecule metabolic process
+24,FBgn0259101,LOC101888192,0.000431911,0.037418061,1.080586005,GO:0006196,AMP catabolic process,GO:0044281,small molecule metabolic process
+25,FBgn0286508,LOC101897214,0.000351306,0.033053007,0.718479619,GO:0006631,fatty acid metabolic process,GO:0044281,small molecule metabolic process

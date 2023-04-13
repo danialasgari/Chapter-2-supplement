@@ -1,0 +1,23 @@
+,Drosophila homolog,House fly gene names,pvalue,padj,logFC,GO.Annotation.Ontology.Term.Identifier,GO.Annotation.Ontology.Term.Name,Parents.Identifier,Parents.Name
+1,FBgn0002917,LOC101895706,0.000262464,0.027642625,0.676074636,GO:0055085,transmembrane transport,GO:0055085,transmembrane transport
+2,FBgn0010241,LOC101894474,0.000567309,0.039396425,1.06794476,GO:0055085,transmembrane transport,GO:0055085,transmembrane transport
+3,FBgn0010497,LOC105261617,0.000525288,0.039055465,1.055892448,GO:0055085,transmembrane transport,GO:0055085,transmembrane transport
+4,FBgn0028670,LOC101899220,0.00060505,0.040582686,0.881296154,GO:1902600,proton transmembrane transport,GO:0055085,transmembrane transport
+5,FBgn0030331,LOC101896556,0.000316614,0.030443671,1.077672476,GO:0055085,transmembrane transport,GO:0055085,transmembrane transport
+6,FBgn0032435,LOC101898579,0.000895422,0.046811458,1.027743775,GO:0055085,transmembrane transport,GO:0055085,transmembrane transport
+7,FBgn0033234,LOC101895644,5.34E-08,5.59E-05,2.246973508,GO:0055085,transmembrane transport,GO:0055085,transmembrane transport
+8,FBgn0033494,LOC101901734,0.000771819,0.045022761,0.594449148,GO:0071805,potassium ion transmembrane transport,GO:0055085,transmembrane transport
+9,FBgn0033760,LOC101892734,0.000264493,0.027642625,1.358895345,GO:0003333,amino acid transmembrane transport,GO:0055085,transmembrane transport
+10,FBgn0034716,LOC101898869,0.000457582,0.037986059,0.997271752,GO:0055085,transmembrane transport,GO:0055085,transmembrane transport
+11,FBgn0035695,LOC101899244,0.000123219,0.01960297,1.324311617,GO:0055085,transmembrane transport,GO:0055085,transmembrane transport
+12,FBgn0036043,LOC101895719,0.000718645,0.043667643,1.093051068,GO:0055085,transmembrane transport,GO:0055085,transmembrane transport
+13,FBgn0036501,LOC101901755,0.000380712,0.034700313,0.518922228,GO:0034219,carbohydrate transmembrane transport,GO:0055085,transmembrane transport
+14,FBgn0037203,LOC101899672,1.23E-06,0.000673984,1.846617861,GO:0097638,L-arginine import across plasma membrane,GO:0055085,transmembrane transport
+15,FBgn0038752,LOC101899861,1.18E-05,0.003812765,0.799456881,GO:0055085,transmembrane transport,GO:0055085,transmembrane transport
+16,FBgn0039045,LOC101897050,2.10E-06,0.001079438,1.346156498,GO:0003333,amino acid transmembrane transport,GO:0055085,transmembrane transport
+17,FBgn0039873,LOC101887763,8.59E-07,0.000536703,1.513546189,GO:0055085,transmembrane transport,GO:0055085,transmembrane transport
+18,FBgn0039941,LOC101888926,0.00010018,0.018261742,1.286217624,GO:0070588,calcium ion transmembrane transport,GO:0055085,transmembrane transport
+19,FBgn0051547,LOC101898146,5.95E-07,0.000433692,1.153829097,GO:0003333,amino acid transmembrane transport,GO:0055085,transmembrane transport
+20,FBgn0062412,LOC101899839,0.000364329,0.033913566,1.280121466,GO:0035434,copper ion transmembrane transport,GO:0055085,transmembrane transport
+21,FBgn0259111,LOC101890172,0.000676327,0.042738832,0.809076031,GO:0055085,transmembrane transport,GO:0055085,transmembrane transport
+22,FBgn0259834,LOC101887263,5.48E-05,0.012777826,1.794418264,GO:0055085,transmembrane transport,GO:0055085,transmembrane transport
